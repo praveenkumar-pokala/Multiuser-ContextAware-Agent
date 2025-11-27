@@ -1,4 +1,4 @@
-# Multi‑User Agentic AI with LangChain Tool Calling
+# Multi‑User, Conversational Agentic AI with Tool Calling
 
 Hands‑on notebooks that take you from **custom tools** to a full **multi‑user, context‑aware conversational agent** using LangChain, OpenAI, and real API endpoints.
 
